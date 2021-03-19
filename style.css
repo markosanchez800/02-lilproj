@@ -9,13 +9,31 @@
     border:5px solid plum;
 }
 body{
+<<<<<<< HEAD
+    
+    
+    
+=======
     color:blueviolet;
+>>>>>>> 13068adf008e09c5b722a959a7c8e61821e9f7b3
 }
 header {
     display: flex;
     font-size: 50px;
+    color: blueviolet; 
     justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
     align-items: center;
+<<<<<<< HEAD
+=======
     color: blueviolet;
     
+>>>>>>> 13068adf008e09c5b722a959a7c8e61821e9f7b3
 }
