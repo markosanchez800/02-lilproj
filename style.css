@@ -28,11 +28,22 @@ footer {
     color: blueviolet;
     
 }
-
 article {
+    display: flex;
+}
+#column-one {
     font-size: 40px;
     display: flex;
     margin-top: 2%;
+    justify-content: left;
+    margin-left: 5%;
+    
+}
+
+#column-two {
+    font-size: 40px;
+    
+    margin-top: 2%;
     justify-content: center;
-    border: 10px rgb(59, 54, 54);
+    margin-left: 5%;   
 }
