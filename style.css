@@ -1,7 +1,15 @@
+:root {
+    --basicColor1: blueviolet;
+    --basicColor2: rgb(59, 54, 54);
+}
 body{
+<<<<<<< HEAD
     
     
     
+=======
+    color:blueviolet;
+>>>>>>> 13068adf008e09c5b722a959a7c8e61821e9f7b3
 }
 header {
     display: flex;
@@ -17,4 +25,9 @@ p {
 
 footer {
     align-items: center;
+<<<<<<< HEAD
+=======
+    color: blueviolet;
+    
+>>>>>>> 13068adf008e09c5b722a959a7c8e61821e9f7b3
 }
