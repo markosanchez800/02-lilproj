@@ -1,17 +1,15 @@
-<<<<<<< HEAD
-.title{
-    display:inline-flex;
-    align-content: center;
-    font-family: fantasy;
-=======
+:root {
+    --basicColor1: blueviolet;
+    --basicColor2: rgb(59, 54, 54);
+}
 body{
-    display: flex;
+    color:blueviolet;
 }
 header {
     display: flex;
     font-size: 50px;
     justify-content: center;
     align-items: center;
+    color: blueviolet;
     
->>>>>>> 3b618859b6ae5618a180beadf08afe2bf18af1ff
 }
