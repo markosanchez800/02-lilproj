@@ -1,0 +1,10 @@
+body{
+    display: flex;
+}
+header {
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
