@@ -2,6 +2,12 @@
     --basicColor1: blueviolet;
     --basicColor2: rgb(59, 54, 54);
 }
+
+.box1{
+    display:flex;
+    justify-content: center;
+    border:5px solid plum;
+}
 body{
     color:blueviolet;
 }
