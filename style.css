@@ -30,7 +30,9 @@ footer {
 }
 
 article {
+    font-size: 40px;
     display: flex;
-    display: flexbox;
-
+    margin-top: 2%;
+    justify-content: center;
+    border: 10px rgb(59, 54, 54);
 }
