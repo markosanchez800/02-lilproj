@@ -1,10 +1,20 @@
 body{
-    display: flex;
+    
+    
+    
 }
 header {
     display: flex;
     font-size: 50px;
+    color: blueviolet; 
     justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
     align-items: center;
-    
 }
